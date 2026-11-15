@@ -132,4 +132,5 @@ void PrintAndFreqwency()
 int main(){
     srand((unsigned)time(NULL));
     PrintAndFreqwency();
+    return 0;
 }
